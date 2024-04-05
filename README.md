@@ -16,7 +16,7 @@ Overall, my goal is to leverage GitHub as a valuable resource for both personal 
 
 | Skills                                         | Projects         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/ddlezu01/Detection-Lab/blob/main/README.md)">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -57,8 +57,8 @@ Overall, my goal is to leverage GitHub as a valuable resource for both personal 
 ## Education
  - BSc. Information Technology
  - MSc. Cyber Security
- - Diploma Software Engineering
+ - Diploma in Software Engineering
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/ddlezu01/Detection-Lab/blob/main/README.md)">Detection Lab</a>
 - SOC Automation Project
