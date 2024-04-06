@@ -46,6 +46,12 @@ Overall, my goal is to leverage GitHub as a valuable resource for both personal 
     <img src="https://img.shields.io/badge/-IBM%20QRadar-005571?&style=for-the-badge&logo=IBM&logoColor=white" />
 </div>
 
+### Programming
+  - Python
+  - Powershell
+  - C
+  - Java
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
