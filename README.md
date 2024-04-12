@@ -18,6 +18,7 @@ Overall, my goal is to leverage GitHub as a valuable resource for both personal 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/ddlezu01/Detection-Lab/blob/main/README.md ">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Incident response playbook (use the hyperlink to rewrite it                   | <a href="https://www.techtarget.com/searchsecurity/tip/How-to-create-an-incident-response-playbook ">|Vlnerability Management </a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
